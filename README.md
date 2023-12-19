@@ -52,3 +52,4 @@ K-Nearest Neighbors: 0.7778
   
 The method that performs best is Support Vector Machine with an accuracy of 0.8889
 ![](confusion_matrix.png)
+![confusion_matrix](https://github.com/Vyshnevskyi91/SpaceY/assets/137420559/277e7adb-58e6-4107-80cd-0b428dc1a94b)
