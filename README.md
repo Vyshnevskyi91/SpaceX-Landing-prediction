@@ -33,5 +33,14 @@
 | HEO   |       1 |
 | SO    |       1 |
 | GEO   |       1 |
-
+## Data Visualization
+### Detailed launch records of each site
 ![](each_site.png)
+### The relationship between Payload and Launch Site
+![](payload.png)
+### The relationship between success rate of each orbit type
+![](orbit.png)
+### The relationship between FlightNumber and Orbit type
+![](flight_number.png)
+### Average Launch Success Trend Over the Years
+![](success.png)
