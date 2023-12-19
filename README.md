@@ -44,10 +44,10 @@
 ![](flight_number.png)
 ![](success.png)
 ## Machine Learning
-Accuracy on Test Data:
-Logistic Regression: 0.7778
-Support Vector Machine: 0.8889
-Decision Tree: 0.8333
-K-Nearest Neighbors: 0.7778
+Accuracy on Test Data:|
+Logistic Regression: 0.7778|
+Support Vector Machine: 0.8889|
+Decision Tree: 0.8333|
+K-Nearest Neighbors: 0.7778|
 
 The method that performs best is Support Vector Machine with an accuracy of 0.8889
