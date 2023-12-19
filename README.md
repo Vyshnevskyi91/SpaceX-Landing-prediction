@@ -13,7 +13,7 @@
 ## Exploratory data analysis
 ## Calculate the number of launches on each site
 
-'CCSFS SLC 40    55
+CCSFS SLC 40    55
 KSC LC 39A      22
 VAFB SLC 4E     13
-Name: LaunchSite, dtype: int64'
+Name: LaunchSite, dtype: int64
