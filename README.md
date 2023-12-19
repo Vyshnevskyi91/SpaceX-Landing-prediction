@@ -42,5 +42,4 @@
 ![](orbit.png)
 ### The relationship between FlightNumber and Orbit type
 ![](flight_number.png)
-### Average Launch Success Trend Over the Years
 ![](success.png)
