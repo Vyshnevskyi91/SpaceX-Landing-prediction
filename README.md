@@ -12,9 +12,9 @@
 |              5 | 2013-12-03 | Falcon 9         |       3170    | GTO     | CCSFS SLC 40 | None None   |         1 | False      | False    | False  |                          |       1 |             0 | B1004    |    -80.5774 |    28.5619 |
 ## Exploratory data analysis
 ## Calculate the number of launches on each site
-'''
-CCSFS SLC 40    55
-KSC LC 39A      22
-VAFB SLC 4E     13
-Name: LaunchSite, dtype: int64
-'''
+
+'''CCSFS SLC 40    55'''
+'''KSC LC 39A      22'''
+'''VAFB SLC 4E     13'''
+'''Name: LaunchSite, dtype: int64'''
+
